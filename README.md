@@ -1,9 +1,7 @@
 # Le Brief du Jour — diffusion audio
 
-Dépôt public réservé à la diffusion du podcast audio francophone.
+Ce dépôt public contient exclusivement des épisodes audio générés automatiquement, leurs métadonnées et le flux RSS.
 
-Le code de génération, les fichiers privés et les clés d'accès ne figurent pas ici.
+Flux RSS : https://druidedecoc.github.io/brief-audio-rss/feed.xml
 
-Le flux RSS sera généré automatiquement à l'adresse :
-
-https://druidedecoc.github.io/brief-audio-rss/feed.xml
+Le moteur de production n'est pas publié ici.

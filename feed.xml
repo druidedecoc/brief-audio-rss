@@ -1,2 +1,22 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0"><channel><title>Le Brief du Jour</title><link>https://druidedecoc.github.io/brief-audio-rss/</link><description>Actualités essentielles expliquées en français</description><language>fr-FR</language></channel></rss>
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Le Brief du Jour</title>
+    <link>https://druidedecoc.github.io/brief-audio-rss/</link>
+    <description>Chaque jour, les actualités essentielles expliquées en français, sans publicité.</description>
+    <language>fr-FR</language>
+    <copyright>Le Brief du Jour - podcast automatisé</copyright>
+    <itunes:author>Le Brief du Jour</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <lastBuildDate>Thu, 12 Nov 2026 14:10:50 GMT</lastBuildDate>
+    <item>
+      <title>Le Brief du Jour — 12/11/2026</title>
+      <description>Au programme : Guerre en Ukraine : l'Europe doit avoir "une vision claire et unie de ce qu'elle veut pour l'Ukraine et pour elle-même", défend Emmanuel Macron ; EN DIRECT, guerre en Ukraine : les émissaires américains rencontrent Vladimir Poutine à Moscou ; une femme tuée par un drone à Kiev... Les dernières informations sur le conflit ; "Éclats de guerre" : le photoreporter Patrick Chauvel témoigne de ses 60 ans de carrière ; Le milliardaire conservateur Pierre-Edouard Stérin sera jugé en janvier pour son refus répété de venir devant une commission d’enquête de l’Assemblée ; «Il faut demander aux populations»: Mélenchon défend sa position sur l'Ukraine et balaie toute ambiguïté</description>
+      <guid isPermaLink="false">le-brief-du-jour-2026-11-12</guid>
+      <pubDate>Thu, 12 Nov 2026 08:00:00 +0100</pubDate>
+      <enclosure url="https://druidedecoc.github.io/brief-audio-rss/episodes/2026-11-12.mp3" length="5007885" type="audio/mpeg" />
+      <itunes:duration>500</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+  </channel>
+</rss>
