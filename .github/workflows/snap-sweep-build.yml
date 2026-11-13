@@ -5,7 +5,7 @@ on:
       - "build/snapsweep-android-2026"
   workflow_dispatch:
 permissions:
-  contents: read
+  contents: write
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -36,3 +36,13 @@ jobs:
         with:
           name: SnapSweep-Android-APK
           path: SnapSweep-Android/app/build/outputs/apk/debug/app-debug.apk
+      - name: Publish direct APK link
+        if: success()
+        run: |
+          mkdir -p public
+          cp SnapSweep-Android/app/build/outputs/apk/debug/app-debug.apk public/SnapSweep-Android.apk
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add public/SnapSweep-Android.apk
+          git commit -m "Publish SnapSweep compiled APK [skip ci]"
+          git push origin HEAD:build/snapsweep-android-2026
