@@ -8,7 +8,16 @@
     <copyright>Le Brief du Jour - podcast automatisé</copyright>
     <itunes:author>Le Brief du Jour</itunes:author>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Thu, 12 Nov 2026 15:39:59 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 06:15:45 GMT</lastBuildDate>
+    <item>
+      <title>L'essentiel du vendredi 13 novembre</title>
+      <description>Dans cet épisode, on revient notamment sur Une hausse du smic à 1 700 euros entraînerait-elle la destruction de 230 000 emplois, comme l'affirme le gouvernement ? ; Guerre hybride : comment riposter ? ; "Aujourd'hui, on est au seuil de la guerre avec la Russie" selon Guillaume Ancel, ancien officier de l'armée française.</description>
+      <guid isPermaLink="false">le-brief-du-jour-2026-11-13-4cd1276a24ddedcc</guid>
+      <pubDate>Fri, 13 Nov 2026 06:15:45 +0000</pubDate>
+      <enclosure url="https://druidedecoc.github.io/brief-audio-rss/episodes/2026-11-13.mp3" length="3867165" type="audio/mpeg" />
+      <itunes:duration>386</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>L'essentiel du jeudi 12 novembre</title>
       <description>Dans cet épisode, on revient notamment sur Entre sabotages, cyberattaques, et agents au service des puissances rivales, comment l'Europe se retrouve sous la pression de la guerre hybride ; Midterms 2026 : exploit des démocrates dans le Mississippi avec l'élection de Scott Colom ; Présidentielle 2027 : les interviews de plusieurs candidats à l'élection présidentielle, dans le cadre de l'opération "Nos services publics", reprennent à 17h10.</description>
