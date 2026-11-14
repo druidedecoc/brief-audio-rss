@@ -8,7 +8,16 @@
     <copyright>Le Brief du Jour - podcast automatisé</copyright>
     <itunes:author>Le Brief du Jour</itunes:author>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Fri, 13 Nov 2026 06:15:45 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 06:08:47 GMT</lastBuildDate>
+    <item>
+      <title>L'essentiel du samedi 14 novembre</title>
+      <description>Dans cet épisode, on revient notamment sur Commerce en ligne : l’Europe en guerre contre les “dark patterns“ ; Affaire Nvidia, guerre en Ukraine, tractations en Israël et sort de Christophe Gleizes ; Le patron de Mistral AI, Arthur Mensch, appelle l'Europe à "agir maintenant" pour rester dans la course en matière d'intelligence artificielle.</description>
+      <guid isPermaLink="false">le-brief-du-jour-2026-11-14-13c99190b41dbd83</guid>
+      <pubDate>Sat, 14 Nov 2026 06:08:47 +0000</pubDate>
+      <enclosure url="https://druidedecoc.github.io/brief-audio-rss/episodes/2026-11-14.mp3" length="4141485" type="audio/mpeg" />
+      <itunes:duration>414</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>L'essentiel du vendredi 13 novembre</title>
       <description>Dans cet épisode, on revient notamment sur Une hausse du smic à 1 700 euros entraînerait-elle la destruction de 230 000 emplois, comme l'affirme le gouvernement ? ; Guerre hybride : comment riposter ? ; "Aujourd'hui, on est au seuil de la guerre avec la Russie" selon Guillaume Ancel, ancien officier de l'armée française.</description>
